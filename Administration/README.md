@@ -28,7 +28,13 @@ To safeguard the file from dataloss, it is a good idea to backup the encrypted g
 
 This is probably one of the most safest way in the world to safeguard the file. No one can hack into your file now even with access to your PC.
 
-### Problem 1
+While the above method is the one of the most safest one, a more robust method can be following - 
+
+Select the file, and choose to compress it with a password. Remember that password! Now delete the original file. To update the file, decompress the file with the password and make changes in it. Compress the file again with a password and delete the original file. 
+
+To safeguard the file from dataloss, it is a good idea to backup the encrypted compressed file into a cloud server at least once everyday.
+
+### Problem 2
 #### Problem Statement-
 You need to signup on AWS / Digitalocean / some other virtual server providing company and install streisand. Then you need to SETUP YOUR OWN VIRTUAL PRIVATE NETWORK(VPN) according to the instructions given on the streisand github page. All the supported virtual server providers are given on the streisand github page. Choose whatever you like.
 
