@@ -29,6 +29,8 @@ Note: You will get the error **Your connection is not private**, on that page cl
 Use username: `streisand` and password as : `short.trouble.captain.current.rate.thank` on the prompt.
 
 Follow the instructions on the loaded webpage as per your choice.
+
+Tip: If you're on Linux, using `Wireguard` is the best connection option. 
 <a name="connecting-tor"></a>
 
 ### Tor Hidden Service

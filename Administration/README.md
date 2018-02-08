@@ -27,3 +27,13 @@ Run `gpg filename.gpg` to decrypt the file, and make changes to it. Repeat the a
 To safeguard the file from dataloss, it is a good idea to backup the encrypted gpg file into a cloud server at least once everyday.
 
 This is probably one of the most safest way in the world to safeguard the file. No one can hack into your file now even with access to your PC.
+
+### Problem 1
+#### Problem Statement-
+You need to signup on AWS / Digitalocean / some other virtual server providing company and install streisand. Then you need to SETUP YOUR OWN VIRTUAL PRIVATE NETWORK(VPN) according to the instructions given on the streisand github page. All the supported virtual server providers are given on the streisand github page. Choose whatever you like.
+
+#### Solution
+An AWS server is used to setup streisand at [https://35.166.238.146/](https://35.166.238.146/). AWS account was setup using credits from Github Student Pack through AWSEducate. The server is hosted in Oregan (USA). 
+To setup streisand, its installation procedure was followed from its [github repository](https://github.com/StreisandEffect/streisand).  It took approximately 30 minutes to setup, though the repo stating around 10 mins!
+
+This is the best problem statement among all and enjoyed it thoroughly. Learnt a lot about working of servers, IP tables, ports, setting up virtual servers and about web services as well. To be able to setup our own servers to bypass censorship is awesome. Thank you for this problem statement. 
