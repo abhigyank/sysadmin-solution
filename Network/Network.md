@@ -54,7 +54,7 @@ This can be verified from `whois lookups` as well. [DomainTools](http://whois.do
 Most of the search engines have their own data-centres, for instance Google's data centres can be found [here](https://www.google.com/about/datacenters/inside/locations/index.html). You need to find out how many data centres does DuckDuckGo OWN, and what are their locations.
 
 #### Solution
-Duckduckgo runs their own servers (in their founders basement, Awesome isn't it?) and have servers on [Amazon EC2](https://duck.co/redir/?u=http%3A%2F%2Faws.amazon.com%2Fec2%2F) across the world. They are running in 4 AWS datacenters in California, Virginia, Singapore, Ireland. 
-Details about their architecture can be found [here](https://duck.co/help/company/architecture), it also has a link to an aricle of an interview with Gabriel(DDG's founder), which has details of the AWS servers and their location. 
+Duckduckgo used to run their own servers (in their founders basement, Awesome isn't it?) but now run servers on [Amazon EC2](https://duck.co/redir/?u=http%3A%2F%2Faws.amazon.com%2Fec2%2F) across the world. They are running in 4 AWS datacenters in California, Virginia, Singapore, Ireland. They also use Linode to host some community functionality, like translations. So technically, they don't OWN any datacenter.
+Details about their architecture can be found [here](https://duck.co/help/company/architecture), it also has a [link](http://highscalability.com/blog/2013/1/28/duckduckgo-architecture-1-million-deep-searches-a-day-and-gr.html) to an aricle of an interview with Gabriel(DDG's founder), which has details of the AWS servers and their location. 
 This is an interesting task, to learn about datacenters and how search engine handle the traffic and large amount of data at the same time keeping up a tremenduos speed. 
 
